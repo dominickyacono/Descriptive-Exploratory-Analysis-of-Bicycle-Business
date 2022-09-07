@@ -1,4 +1,4 @@
-# Descriptive and Exploratory Analysis of Bicycle Business
+# Exploratory Analysis of Bicycle Business
 Beginner project to analyze simple patterns and trends within a fictional bicycle business. Purpose of project is to showcase proficiency in using both SQL and Python.
 
 Click [this link](https://app.datacamp.com/workspace/w/2c38d47b-5fd3-41fb-a440-929a5637c63e) to visit Datacamp.com, where this project is located. 
